@@ -7,4 +7,8 @@ aproveite o curso ^_^.
 
 -> doação <-
 
+
   https://www.udemy.com/git-e-github-para-iniciantes/
+
+<img src="img/git_github.jpg" width="300" >
+
