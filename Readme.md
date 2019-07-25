@@ -6,5 +6,6 @@ Gostou do curso?Que mais? ajude com uma doação ,ate com um café é valido.
 aproveite o curso ^_^.
 
 -> doação <-
-<img src="img/git_github.jpg" width="100" >
+
+<img src="img/git_github.jpg" width="300" >
 
