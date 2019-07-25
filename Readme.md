@@ -6,5 +6,5 @@ Gostou do curso?Que mais? ajude com uma doação ,ate com um café é valido.
 aproveite o curso ^_^.
 
 -> doação <-
-[github]: https://github.com/caiomyrapereira/github-course/blob/master/img/git_github.jpg "Github logo"
+<img src="img/git_github.jpg" width="100" >
 
